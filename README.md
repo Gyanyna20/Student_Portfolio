@@ -48,16 +48,3 @@ An ASP.NET MVC web application assignment involving insurance quote calculations
 
 A practical exercise exploring Entity Framework Code-First, C# models, database contexts, and database operations.
 
-Technologies
-
-C#
-
-.NET Framework
-
-ASP.NET MVC
-
-Entity Framework
-
-SQL Server
-
-Git and GitHub
