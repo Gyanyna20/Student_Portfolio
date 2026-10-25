@@ -25,3 +25,39 @@ Calculator
 
 A basic 4 function calculator. Users can add, subtract, multiply, and divide on a sleek web version
 of a calculator.
+
+C# and .NET Framework Course Projects
+
+This repository contains the projects and assignments I completed during my C# and .NET Framework course.
+
+Projects
+
+1. Bouquet of Flowers
+
+A simple C# console application practising methods, parameters, calculations, and console output.
+
+2. TwentyOne Game
+
+A C# console application focused on game logic, object-oriented programming, LINQ, and debugging.
+
+3. Car Insurance
+
+An ASP.NET MVC web application assignment involving insurance quote calculations, models, controllers, Entity Framework, and SQL Server.
+
+4. Student Database
+
+A practical exercise exploring Entity Framework Code-First, C# models, database contexts, and database operations.
+
+Technologies
+
+C#
+
+.NET Framework
+
+ASP.NET MVC
+
+Entity Framework
+
+SQL Server
+
+Git and GitHub
